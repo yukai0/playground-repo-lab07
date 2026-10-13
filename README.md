@@ -30,3 +30,4 @@ The sample data lives in `data/sample.csv`. Columns are documented inline in
 ## Questions?
 
 Ask in lab!
+\n## Collaboration Test\n\nThis change was made by Bob to practice Git collaboration.
